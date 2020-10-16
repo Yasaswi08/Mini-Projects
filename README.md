@@ -15,4 +15,5 @@ The goal of this project was to understand the progression of a multi-stage atta
 2. Built a simple factor graph for a single event and a single attack stage
 3. Extended the factor graph to capture the evolution of a series of events to infer the attack state (hidden) and decide the action to take
 
+##
 None of the datasets were included, as I am not at authority to do so.
